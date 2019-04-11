@@ -1,0 +1,54 @@
+.large {font-family: Tahoma, Arial, Geneva, Helvetica, sans-serif; font-size: 18px; font-weight:bold; color: #000000;}
+.normal {font-family: Tahoma, Arial, Geneva, Helvetica, sans-serif; font-size: 11px; color: #000000;}
+.small {font-family: Tahoma, Arial, Geneva, Helvetica, sans-serif; font-size: 11px; color: #000000;}
+
+.menu{font-family:Tahoma,Arial;font-size:11px;font-weight:bold;text-decoration:none;color:#0000aa}
+.menu:hover {color:#cc0000;}
+
+.link{text-decoration:none;}
+.link:hover {color:#cc0000;}
+
+.news_side_menu{font-family: Tahoma, Arial, Geneva, Helvetica, sans-serif; font-size: 12px;font-weight:bold;text-decoration:none;color:#0000aa}
+.news_side_menu:hover {color:#cc0000;}
+
+.hover{text-decoration:none;color:#770000;}
+.hover:hover {color:#ff0000;}
+
+.side_heading{font-family:Tahoma,Arial;font-size:10px;font-weight:bold;text-decoration:none;color:#444444; margin-left:-10px; margin-top:5px; margin-bottom:0px;}
+.side_subheading{font-family:Tahoma,Arial;font-size:9px;font-weight:normal;text-decoration:none;color:#444444; margin-left:-5px; margin-top:0px; margin-bottom:0px;}
+.side_body{font-family: Tahoma,Arial; font-size: 11px; font-weight:normal; color: #000000; margin-top:0px; margin-bottom:5px;}
+
+.banner {font-family: Tahoma, Arial, Geneva, Helvetica, sans-serif; font-size: 12px; color: #ffffff;}
+.dslink {text-decoration:none;color:#ffffff}
+.dslink:hover {color:#ffff00}
+
+.page_title {font-family: Tahoma, Arial, Geneva, Helvetica, sans-serif; font-size: 24px; font-weight:bold; color: #556677; margin-left:5px; margin-top:0px; margin-bottom:-5px;}
+.page_heading {font-family: Tahoma, Arial, Geneva, Helvetica, sans-serif; font-size: 18px; font-weight:bold; color: #556677; margin-left:5px; margin-top:0px; margin-bottom:-5px;}
+.page_subheading {font-family: Tahoma, Arial, Geneva, Helvetica, sans-serif; font-size: 14px; font-weight:bold; color: #556677; margin-left:5px; margin-top:0px; margin-bottom:-5px;}
+.page_body {font-family: Tahoma, Arial, Geneva, Helvetica, sans-serif; font-size: 11px; font-weight:normal; color: #000000; margin-left:20px;}
+
+.menu_section {font-family: Tahoma, Arial, Geneva, Helvetica, sans-serif; font-size: 14px; font-weight:bold; color: #556677; margin-left:5px; margin-top:0px; margin-bottom:-5px;}
+.menu_heading {font-family: Tahoma, Arial, Geneva, Helvetica, sans-serif; font-size: 11px; font-weight:bold; color: #556677; margin-left:20px; margin-top:0px; margin-bottom:-5px;}
+.menu_body {font-family: Tahoma, Arial, Geneva, Helvetica, sans-serif; font-size: 10px; font-weight:normal; color: #000000; margin-left:5px;}
+
+input.text{color:black;background:white;border:1px solid;font-family:Tahoma,Verdana,Arial,Helvetica;font-size:12px;padding-left:2px;padding-right:2px;}
+textarea.text{color:black;background:white;border:1px solid;font-family:Tahoma,Verdana,Arial,Helvetica;font-size:12px;padding-left:2px;padding-right:2px;}
+input.button{color:black;background:#cccccc;border:1px outset;font-family:Tahoma,Verdana,Arial,Helvetica;font-size:12px;font-weight:bold;padding-left:2px;padding-right:2px;}
+
+.table_section {border:single;border-width:1px;border-color:#ccc;padding:1px;margin:1px;}
+.table_heading{font-family:Verdana,Arial;font-size:10px;font-weight:bold;border:outset;border-width:1px;background-color:#abc;padding:1px;margin:1px;}
+.column_heading{font-family:Verdana,Arial;font-size:10px;border:outset;border-width:1px;background-color:#ccc;padding:1px;margin:1px;}
+.table_data{font-family:Verdana,Arial;font-size:10px;border:none;border-width:0px;background-color:#fff;padding:3px;margin:3px;}
+.button{text-decoration:none;font-family:Verdana,Arial;font-size:10px;font-weight:normal;color:#eee;border:outset;border-width:1px;background-color:#ccc;padding:2px;margin:2px;}
+.button:hover{color:#000;}
+.button_thin{text-decoration:none;font-family:Verdana,Arial;font-size:10px;font-weight:normal;color:#eee;border:outset;border-width:1px;background-color:#ccc;padding:1px;margin:1px;}
+.button_thin:hover{color:#000;}
+
+.page_title {font-family: "Trebuchet MS",Tahoma, Arial, Geneva, Helvetica, sans-serif; font-size: 24px; font-weight:bold; color: #667788;}
+.title {font-family: "Trebuchet MS",Tahoma, Arial, Geneva, Helvetica, sans-serif; font-size: 36px; font-weight:bold; color: #556677;}
+.heading {font-family: "Trebuchet MS",Tahoma, Arial, Geneva, Helvetica, sans-serif; font-size: 24px; font-weight:bold; color: #556677;}
+.subheading {font-family: "Trebuchet MS",Tahoma, Arial, Geneva, Helvetica, sans-serif; font-size: 18px; font-weight:bold; color: #778899;}
+.body {font-family: Verdana,Tahoma, Arial, Geneva, Helvetica, sans-serif; font-size: 12px; font-weight:normal; color: #334455;}
+
+.smallheading {font-family: Verdana,Tahoma, Arial, Geneva, Helvetica, sans-serif; font-size: 12px; font-weight:bold; color: #778899;}
+.smallbody {font-family: Verdana,Tahoma, Arial, Geneva, Helvetica, sans-serif; font-size: 10px; font-weight:normal; color: #334455;}

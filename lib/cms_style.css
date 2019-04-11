@@ -1,0 +1,19 @@
+.cms_huge {font-family: 'Trebuchet MS', Tahoma, Arial, Geneva, Helvetica, sans-serif; font-size: 36px; font-weight:bold; color: #000000;}
+.cms_large {font-family: 'Trebuchet MS', Tahoma, Arial, Geneva, Helvetica, sans-serif; font-size: 22px; font-weight:bold; color: #000000;}
+.cms_normal {font-family: Tahoma, Arial, Geneva, Helvetica, sans-serif; font-size: 13px; color: #000000;}
+.cms_small {font-family: Tahoma, Arial, Geneva, Helvetica, sans-serif; font-size: 11px; color: #000000;}
+
+.cms_link{}
+.cms_link:hover {color:#cc0000;}
+
+.cms_smallprint {font-family: Tahoma, Arial, Geneva, Helvetica, sans-serif; font-size: 11px; color: #777;}
+
+input.cms_text{color:black;background:white;border:1px solid;font-family:Tahoma,Verdana,Arial,Helvetica;font-size:11px;padding-left:2px;padding-right:2px;}
+select.cms_text{color:black;background:white;border:1px solid;font-family:Tahoma,Verdana,Arial,Helvetica;font-size:11px;padding-left:2px;padding-right:2px;}
+textarea.cms_text{color:black;background:white;border:1px solid;font-family:"Courier New",Courier;font-size:11px;padding-left:2px;padding-right:2px;}
+input.cms_button{color:black;background:#cccccc;border:1px outset;font-family:Tahoma,Verdana,Arial,Helvetica;font-size:11px;font-weight:bold;padding-left:2px;padding-right:2px;}
+
+.cms_button{text-decoration:none;font-family:Verdana,Arial;font-size:10px;font-weight:normal;color:#eee;border:outset;border-width:1px;background-color:#ccc;padding:2px;margin:2px;}
+.cms_button:hover{color:#000;}
+.cms_button_thin{text-decoration:none;font-family:Verdana,Arial;font-size:10px;font-weight:normal;color:#666;border:outset;border-width:1px;background-color:#ccc;padding-left:5px;padding-right:5px;padding-top:1px;padding-bottom:1px;margin-top:2px;margin-bottom:2px;}
+.cms_button_thin:hover{color:#000;}
