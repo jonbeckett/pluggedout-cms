@@ -1,7 +1,7 @@
 pluggedout-cms
 ==============
 
-I wrote CMS about 7 years ago because nothing similar existed at the time, and I
+I wrote CMS about 14 years ago because nothing similar existed at the time, and I
 needed something to easily publish a dynamic website on the internet, and allow multiple
 users to edit it's contents.
 
